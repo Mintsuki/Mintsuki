@@ -1,8 +1,6 @@
 ### Hi
 
-My name is mintsuki but I usually go by just mint. I am a programmer who mostly does low level programming for the fun of it.
-
-I moved most of my personal projects and projects I maintain over to [Codeberg](https://codeberg.org/Mintsuki). Please follow me there!
+My name is Mintsuki but I usually go by just Mint. I am a programmer who mostly does low level programming for the fun of it.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mintsuki&label=Profile%20views&color=0e75b6&style=flat" alt="mintsuki" /> </p>
 
